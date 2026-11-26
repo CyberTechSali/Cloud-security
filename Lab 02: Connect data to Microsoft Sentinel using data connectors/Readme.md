@@ -18,7 +18,7 @@
 | | |
 |---|---|
 | 🎯 **Goal** | Preparation for the Microsoft **SC-500** certification (Cloud and AI Security Engineer Associate) |
-| ✍️ **Author** | [YOUR FULL NAME] |
+| ✍️ **Author** | Ouchahed Salma |
 | 🐙 **GitHub** | CyberTechSali |
 | 🎓 **Training** | [LevelUp for Microsoft - SC-500: Cloud and AI Security Engineer Associate - Practice Lab](https://learn.mslevelup.com/learner_module/show/2621860?lesson_id=12220419&section_id=109230742) (SkillUp) |
 | 📅 **Date** | November 26, 2026 |
